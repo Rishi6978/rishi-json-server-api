@@ -18,7 +18,8 @@
     "url": "https://github.com/Rishi6978/rishi_json-server-api/issues"
   },
   "homepage": "https://github.com/Rishi6978/rishi_json-server-api#readme",
-  "dependencies": {
+  "devDependencies": {
+    "concurrently": "^9.1.2",
     "json-server": "^1.0.0-beta.3"
   }
 }
